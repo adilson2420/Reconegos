@@ -27,21 +27,6 @@ namespace GCentro.Models
         }
     }
 
-    public class Info_Apresentar
-    {
-        public int Apre { get; set; }
-        public string Visualizar { get; set; }
-    }
-    public class Info_Especialidade
-    {
-        public int Id { get; set; }
-        public string Nome { get; set; }
-        public String Estado { get; set; }
-        public bool Activo { get; set; }
-
-        public int Ver { get; set; }
-
-    }
     public class Info_Login
     {
         private String _emal;
@@ -53,11 +38,5 @@ namespace GCentro.Models
         public string Nome { get => _emal; set => _emal = value; }
         public string Categoria { get => _categoria; set => _categoria = value; }
         public bool Activo { get => _activo; set => _activo = value; }
-    }
-    public class Info_Todos
-    {
-        public Info_Apresentar Apresentar { get; set; }
-    
-        public Info_Especialidade Especialidade { get; set; }
     }
 }
