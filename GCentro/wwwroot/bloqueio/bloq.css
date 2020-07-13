@@ -1,0 +1,34 @@
+#content {
+position:absolute;
+top:150px;
+left:50px;
+}
+#lockscreen {
+position:fixed;
+z-index:999;
+cursor:forbidden;
+width:100%;
+height:100%;
+background-color:rgba(0,0,0,0.9);
+color:white;
+display:none;
+}
+.lock-msg{
+position:relative;
+display:table;
+margin:auto;
+top:300px;
+}
+.lockscreen-password{
+position:relative;
+text-align:center;
+display:table;
+margin:auto;
+top:350px;
+}
+.lockscreen-btn{
+position:relative;
+display:table;
+margin:auto;
+top:380px;
+}

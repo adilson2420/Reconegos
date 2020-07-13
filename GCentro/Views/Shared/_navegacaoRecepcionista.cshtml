@@ -1,0 +1,43 @@
+﻿<nav class="navbar-default navbar-side" role="navigation">
+    <div class="sidebar-collapse">
+        <ul class="nav" id="main-menu">
+            <li class="text-center">
+                <img src="~/assets/img/find_user.png" class="user-image img-responsive" />
+            </li>
+            <li>
+                <a  asp-controller="Home" asp-action="Index"><i class="fa fa-home fa-3x"></i>Início</a>
+            </li>
+            <li>
+                <a href="#"><i class="fa fa-search fa-3x"></i> Procurar<span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level">
+                    <li>
+                        <a href="Registo de Pacientes.aspx">Pacientes</a>
+                    </li>
+                    <li>
+                        <a href="#">Funcionários<span class="fa arrow"></span></a>
+                        <ul class="nav nav-third-level">
+                            <li>
+                                <a href="Registo de Medico.aspx">Médicos</a>
+                            </li>
+                            <li>
+                                <a href="Registo de Recepcionista.aspx">Recepecionista</a>
+                            </li>
+                        </ul>
+
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="Agendamento.aspx" class="active-menu"><i class="fa fa-medkit fa-3x"></i> Marcar consulta</a>
+            </li>
+            <li>
+                <a asp-controller="Consulta" asp-action="Index"><i class="fa fa-bar-chart-o fa-3x"></i>Consultas</a>
+            </li>
+            <li>
+                <a href="#"><i class="fa fa-unlock-alt fa-3x"></i> Bloquear</a>
+            </li>
+        </ul>
+
+    </div>
+
+</nav>

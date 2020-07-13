@@ -1,0 +1,39 @@
+﻿<nav class="navbar-default navbar-side" role="navigation">
+    <div class="sidebar-collapse">
+        <ul class="nav" id="main-menu">
+            <li class="text-center">
+                <img src="~/assets/img/find_user.jpg" class="user-image img-responsive">
+            </li>
+            <li>
+                <a class="active-menu" asp-controller="PaginaInicial" asp-action="Index"><i class="fa fa-home fa-3x"></i> Inicio</a>
+            </li>
+            <li>
+                <a href="#"><i class="fa fa-plus fa-3x"></i> Registos<span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level collapse">
+                    <li>
+                        <a asp-controller="PaginaInicial" asp-action="#">Cursos</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="#"><i class="fa fa-search fa-3x"></i> Procurar<span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level collapse">
+                    <li>
+                        <a  asp-controller="PaginaInicial" asp-action="#">Cursos</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a asp-controller="Administrador" asp-action="bloqueio"><i class="fa fa-edit fa-3x"></i> Relatório </a>
+            </li>
+            <li>
+                <a asp-controller="Administrador" asp-action="bloqueio"><i class="fa fa-unlock-alt fa-3x"></i> Bloquear</a>
+            </li>
+            <li>
+                <a href="Bloqueio de ecrã.aspx"><i class="fa fa-trash-o fa-3x"></i> Lixeira</a>
+            </li>
+        </ul>
+
+    </div>
+
+</nav>
