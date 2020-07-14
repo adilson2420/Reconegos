@@ -1,32 +1,7 @@
 ﻿using System;
-using MySql.Data.MySqlClient;
 
-namespace GCentro.Models
+namespace GC.Models
 {
-    public class Conexao
-    {
-        // Conexao com base de dados
-        public static MySqlConnection conexao = new MySqlConnection("server = (localhost); User Id = root;database = adilson; password = SENHA");
-
-        //Abrir e fechar a conexao
-        public static void AbrirConexao()
-        {
-            try
-            {
-                conexao.Open();
-            }
-            catch 
-            {
-                throw new Exception ("Erro Da conexao");
-            }
-            
-        }
-        public static void FecharConexao()
-        {
-            conexao.Close();
-        }
-    }
-
     public class Info_Login
     {
         private String _emal;

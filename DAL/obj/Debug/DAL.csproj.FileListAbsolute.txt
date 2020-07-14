@@ -1,0 +1,8 @@
+A:\Projecto\Reconegos\Reconegos\DAL\bin\Debug\DAL.dll
+A:\Projecto\Reconegos\Reconegos\DAL\bin\Debug\DAL.pdb
+A:\Projecto\Reconegos\Reconegos\DAL\bin\Debug\MySql.Data.dll
+A:\Projecto\Reconegos\Reconegos\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+A:\Projecto\Reconegos\Reconegos\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+A:\Projecto\Reconegos\Reconegos\DAL\obj\Debug\DAL.csproj.CopyComplete
+A:\Projecto\Reconegos\Reconegos\DAL\obj\Debug\DAL.dll
+A:\Projecto\Reconegos\Reconegos\DAL\obj\Debug\DAL.pdb

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace GCentro.Controllers
+namespace GC.Controllers
 {
     public class CursoController : Controller
     {

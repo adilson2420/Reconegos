@@ -57,7 +57,6 @@ A:\Projecto\Reconegos\Reconegos\GCentro\bin\Debug\netcoreapp3.1\GCentro.dll
 A:\Projecto\Reconegos\Reconegos\GCentro\bin\Debug\netcoreapp3.1\GCentro.pdb
 A:\Projecto\Reconegos\Reconegos\GCentro\bin\Debug\netcoreapp3.1\GCentro.Views.dll
 A:\Projecto\Reconegos\Reconegos\GCentro\bin\Debug\netcoreapp3.1\GCentro.Views.pdb
-A:\Projecto\Reconegos\Reconegos\GCentro\bin\Debug\netcoreapp3.1\MySql.Data.dll
 A:\Projecto\Reconegos\Reconegos\GCentro\obj\Debug\netcoreapp3.1\GCentro.csprojAssemblyReference.cache
 A:\Projecto\Reconegos\Reconegos\GCentro\obj\Debug\netcoreapp3.1\GCentro.AssemblyInfoInputs.cache
 A:\Projecto\Reconegos\Reconegos\GCentro\obj\Debug\netcoreapp3.1\GCentro.AssemblyInfo.cs
@@ -168,3 +167,7 @@ A:\Projecto\Reconegos\Reconegos\GCentro\obj\Debug\netcoreapp3.1\GCentro.csproj.C
 A:\Projecto\Reconegos\Reconegos\GCentro\obj\Debug\netcoreapp3.1\GCentro.MvcApplicationPartsAssemblyInfo.cache
 A:\Projecto\Reconegos\Reconegos\GCentro\obj\Debug\netcoreapp3.1\Razor\Views\Curso\Index.cshtml.g.cs
 A:\Projecto\Reconegos\Reconegos\GCentro\obj\Debug\netcoreapp3.1\Razor\Views\Curso\RegistrarCurso.cshtml.g.cs
+A:\Projecto\Reconegos\Reconegos\GCentro\bin\Debug\netcoreapp3.1\BLL.dll
+A:\Projecto\Reconegos\Reconegos\GCentro\bin\Debug\netcoreapp3.1\DAL.dll
+A:\Projecto\Reconegos\Reconegos\GCentro\bin\Debug\netcoreapp3.1\BLL.pdb
+A:\Projecto\Reconegos\Reconegos\GCentro\bin\Debug\netcoreapp3.1\DAL.pdb

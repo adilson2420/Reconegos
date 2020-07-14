@@ -6077,9 +6077,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\Projecto\\Reconegos\\Reconegos\\GCentro\\GCentro.csproj",
-      "projectName": "GCentro",
-      "projectPath": "A:\\Projecto\\Reconegos\\Reconegos\\GCentro\\GCentro.csproj",
+      "projectUniqueName": "A:\\Projecto\\Reconegos\\Reconegos\\GCentro\\GC.csproj",
+      "projectName": "GC",
+      "projectPath": "A:\\Projecto\\Reconegos\\Reconegos\\GCentro\\GC.csproj",
       "packagesPath": "C:\\Users\\Adilson\\.nuget\\packages\\",
       "outputPath": "A:\\Projecto\\Reconegos\\Reconegos\\GCentro\\obj\\",
       "projectStyle": "PackageReference",

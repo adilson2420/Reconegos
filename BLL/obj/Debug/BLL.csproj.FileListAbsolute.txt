@@ -1,0 +1,10 @@
+A:\Projecto\Reconegos\Reconegos\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+A:\Projecto\Reconegos\Reconegos\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+A:\Projecto\Reconegos\Reconegos\BLL\bin\Debug\BLL.dll
+A:\Projecto\Reconegos\Reconegos\BLL\bin\Debug\BLL.pdb
+A:\Projecto\Reconegos\Reconegos\BLL\bin\Debug\DAL.dll
+A:\Projecto\Reconegos\Reconegos\BLL\bin\Debug\MySql.Data.dll
+A:\Projecto\Reconegos\Reconegos\BLL\bin\Debug\DAL.pdb
+A:\Projecto\Reconegos\Reconegos\BLL\obj\Debug\BLL.csproj.CopyComplete
+A:\Projecto\Reconegos\Reconegos\BLL\obj\Debug\BLL.dll
+A:\Projecto\Reconegos\Reconegos\BLL\obj\Debug\BLL.pdb
